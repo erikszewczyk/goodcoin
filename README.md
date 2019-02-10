@@ -14,20 +14,19 @@ More information at [goodcoin.org](http://www.goodcoin.org) Visit our ANN thread
 <table>
 <tr><td>Algo</td><td>Quark</td></tr>
 <tr><td>Block Time</td><td>60 Seconds</td></tr>
-<tr><td>Difficulty Retargeting</td><td>Every Block</td></tr>
-<tr><td>Max Coin Supply (PoW Phase)</td><td>43,199,500 GDC</td></tr>
+<tr><td>Difficulty Retargeting</td><td>Every 2 Blocks</td></tr>
+<tr><td>Max Coin Supply (PoW Phase)</td><td>500,000 GDC</td></tr>
 <tr><td>Max Coin Supply (PoS Phase)</td><td>Infinite</td></tr>
-<tr><td>Premine</td><td>60,000 GDC*</td></tr>
+<tr><td>Premine</td><td>1,000,000 GDC</td></tr>
 </table>
-
-*60,000 GDC Premine was burned in block [279917](http://www.presstab.pw/phpexplorer/GoodCoin/block.php?blockhash=206d9cfe859798a0b0898ab00d7300be94de0f5469bb446cecb41c3e173a57e0)
 
 ### Reward Distribution
 
 <table>
 <th colspan=4>Genesis Block</th>
 <tr><th>Block Height</th><th>Reward Amount</th><th>Notes</th></tr>
-<tr><td>1</td><td>60,000 GDC</td><td>Initial Pre-mine, burnt in block <a href="http://www.presstab.pw/phpexplorer/GoodCoin/block.php?blockhash=206d9cfe859798a0b0898ab00d7300be94de0f5469bb446cecb41c3e173a57e0">279917</a></td></tr>
+<tr><td>1</td><td>500,000 GDC</td><td>Initial Endowment, burnt in block 1</td></tr>
+<tr><td>1</td><td>500,000 GDC</td><td>Development Fund, burnt in block 1</td></tr>
 </table>
 
 ### PoW Rewards Breakdown
