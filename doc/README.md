@@ -3,7 +3,7 @@ GoodCoin Core
 
 Setup
 ---------------------
-[GoodCoin Core](http://goodcoin.org/wallet) is the original GoodCoin client and it builds the backbone of the network. However, it downloads and stores the entire history of GoodCoin transactions; depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more. Thankfully you only have to do this once.
+[GoodCoin Core](http://goodcoin.tech/wallet) is the original GoodCoin client and it builds the backbone of the network. However, it downloads and stores the entire history of GoodCoin transactions; depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more. Thankfully you only have to do this once.
 
 Running
 ---------------------
@@ -28,9 +28,9 @@ Drag GoodCoin-Qt to your applications folder, and then run GoodCoin-Qt.
 
 * See the documentation at the [GoodCoin Wiki](https://en.bitcoin.it/wiki/Main_Page) ***TODO***
 for help and more information.
-* Ask for help on [BitcoinTalk](https://bitcointalk.org/index.php?topic=1262920.0) or on the [GoodCoin Forum](http://forum.goodcoin.org/).
-* Join our Discord server [Discord Server](https://discord.goodcoin.org)
-* Join one of our Slack groups [GoodCoin Slack Groups](https://goodcoin.org/slack-logins/) (Main community is replaced by Discord).
+* Ask for help on [BitcoinTalk](https://bitcointalk.org/index.php?topic=1262920.0) or on the [GoodCoin Forum](http://forum.goodcoin.tech/).
+* Join our Discord server [Discord Server](https://discord.goodcoin.tech)
+* Join one of our Slack groups [GoodCoin Slack Groups](https://goodcoin.tech/slack-logins/) (Main community is replaced by Discord).
 
 Building
 ---------------------
@@ -56,7 +56,7 @@ The GoodCoin repo's [root README](https://github.com/GoodCoin-Project/GoodCoin/b
 
 ### Resources
 
-* Discuss on the [BitcoinTalk](https://bitcointalk.org/index.php?topic=1262920.0) or the [GoodCoin](http://forum.goodcoin.org/) forum.
+* Discuss on the [BitcoinTalk](https://bitcointalk.org/index.php?topic=1262920.0) or the [GoodCoin](http://forum.goodcoin.tech/) forum.
 * Join the [GoodCoin-Dev](https://goodcoin-dev.slack.com/) Slack group ([Sign-Up](https://goodcoin-dev.herokuapp.com/)).
 
 ### Miscellaneous

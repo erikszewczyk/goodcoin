@@ -22,7 +22,7 @@ Build-Depends: debhelper,
  libqrencode-dev,
  libprotobuf-dev, protobuf-compiler
 Standards-Version: 3.9.2
-Homepage: http://www.goodcoin.org
+Homepage: http://www.goodcoin.tech
 Vcs-Git: git://github.com/GoodCoin-Project/GoodCoin.git
 Vcs-Browser: http://github.com/GoodCoin-Project/GoodCoin
 

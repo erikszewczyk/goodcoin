@@ -30,7 +30,7 @@
  *
  * \section intro_sec Introduction
  *
- * This is the developer documentation of the reference client for an experimental new digital currency called GoodCoin (http://www.goodcoin.org),
+ * This is the developer documentation of the reference client for an experimental new digital currency called GoodCoin (http://www.goodcoin.tech),
  * which enables instant payments to anyone, anywhere in the world. GoodCoin uses peer-to-peer technology to operate
  * with no central authority: managing transactions and issuing money are carried out collectively by the network.
  *
